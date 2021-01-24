@@ -27,7 +27,7 @@ p {
 
 #menu-tileB {
     background-color: lightgrey;
-    margin: 5px;
+    margin: 15px;
     align-content: center;
     border-style: solid;
     border-color: black;
@@ -35,7 +35,7 @@ p {
 
 #menu-tileC {
     background-color: lightgrey;
-    margin: 5px;
+    margin: 15px;
     align-content: center;
     border-style: solid;
     border-color: black;
@@ -43,7 +43,7 @@ p {
 
 #menu-tileS {
     background-color: lightgrey;
-    margin: 5px;
+    margin: 15px;
     align-content: center;
     border-style: solid;
     border-color: black;
